@@ -55,7 +55,7 @@
         padding: 0;
     }
     html, body {
-        font-family: "Oswald", sans-serif;
+        font-family: 'Orbitron', sans-serif;
         height: 100%;
         font-size: 18px;
         background-color: #35434d;
@@ -73,14 +73,15 @@
         font-size: 1.5rem;
     }
     .clock {
-        border: 6px solid white;
-        padding: 10px 30px;
+        border: 6px solid #16d1e7;
+        padding: 20px 10px 20px 20px;
         text-align: left;
+        width: 490px;
     }
     h1 {
         font-size: 5rem;
         margin: 0 auto;
         padding: 0;
-        text-shadow: 2px 2px #595959;
+        text-shadow: 2px 2px #005e79;
     }
 </style>
